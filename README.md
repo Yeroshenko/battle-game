@@ -61,7 +61,6 @@ The Battle Game relies on the following dependencies:
 - **@mui/material**: ^5.15.4
 - **lottie-react**: ^2.4.0
 - **react**: ^18.2.0
-- **react-confetti**: ^6.1.0
 - **react-dom**: ^18.2.0
 
 ## Contributing
